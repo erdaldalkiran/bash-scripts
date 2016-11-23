@@ -1,0 +1,1 @@
+ watch -d -n 1 ps -C main -o pid,time,%cpu,%mem,size,cmd
