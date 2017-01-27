@@ -1,0 +1,3 @@
+rename [ -v ] [ -n ] [ -f ] perlexpr [ files ]
+
+src: http://www.tecmint.com/rename-multiple-files-in-linux/
